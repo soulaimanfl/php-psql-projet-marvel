@@ -1,0 +1,8 @@
+body {
+    background: linear-gradient(45deg, black, #FF0000);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Helvetica;
+    color:silver;
+}
+

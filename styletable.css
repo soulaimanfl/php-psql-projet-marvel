@@ -1,0 +1,58 @@
+
+body {
+    background: linear-gradient(45deg, black, #FF0000);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Helvetica;
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+
+}
+
+a {
+   text-align: center;
+    display: block;
+    background-color: black;
+    border-left: 5px solid #FFFFFF;
+    color: #FFFFFF;
+    width: 100%;
+    min-height: 35px;
+    line-height: 35px;
+    padding: 5px;
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+a:hover {
+    background-color: #FFFFFF;
+    border-left: 5px solid black;
+    color: black;
+    transition-duration: 0.5s;
+}
+
+
+table {
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+caption {
+    background-color: white;    
+    text-align: center;
+
+}
+
+tr:hover{
+	background-color: yellow;
+   
+}
+
